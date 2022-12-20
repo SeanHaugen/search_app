@@ -1,0 +1,248 @@
+[
+  {
+    "Name": "Decimus Appollonius",
+    "About": "A senator whose family comes from a long line of distinguished patrician Romans, so long that you all have practically forgotten who you’re related to. Decimus has a good family life and loyal clients. His two sons are his pride and joy. But he doesn’t have a lot of money, having lost it in bad business dealings over the years. He is hopeful that his new antiquities business will be successful, and hopes his new antiquities expert Erasmus (and your Greek language tutor Hami) can help him locate some valuable treasures for sale. Decimus is considered a low-ranking senator and an undynamic figure in Roman society",
+    "Family": "Apollonii",
+    "Locations": "Apollonii Estate"
+  },
+  {
+    "Name": "Atia Appollonia",
+    "About": "from the Carbo family, an old senatorial family whose paternal bloodlines have dried up. She is a powerfully-built, no-nonsense woman who is very competitive and jealous. She rules over the slaves in the household… as well as he daughters… with an iron fist.",
+    "Family": "Apollonii",
+    "Locations": "Apollonii Estate"
+  },
+  {
+    "Name": "Apollonia Prima",
+    "About": "a complete shrew. Bad attitude, uncultured. Dull. Vapid. Needs a husband but has no attractive qualities.",
+    "Family": "Apollonii",
+    "Locations": "Apollonii Estate"
+  },
+  {
+    "Name": "Apollonia Secunda",
+    "About": "is the very portrait of classic Roman beauty. Your mom and dad want to marry her off, but she wants to join the Vestal Virgins and serve Rome instead.",
+    "Family": "Apollonii",
+    "Locations": "Apollonii Estate"
+  },
+  {
+    "Name": "Decimus Apollonius Junior",
+    "About": "is a fine and slightly naiive Roman with aspirations for public office. But there's not enough money to fund his campaign. Junior wants hundreds of gold coins so he can buy enough votes to be elected quaestor and begin his public career. Like you, he is powerfully built. That is his strong point. He’s also a genuinely good guy. Doesn’t like getting his hands dirty",
+    "Family": "Apollonii",
+    "Locations": "Apollonii Estate"
+  },
+  {
+    "Name": "Leuconia",
+    "About": "Leuconia is the bodyservant of the women in the house, and she is a perfect 10. She’s a Gaul, though, so you’re not allowed to make any moves on her. She is not happy in Rome and Prima and Atia are mean to her.",
+    "Family": "Slaves",
+    "Locations": "Apollonii Estate"
+  },
+  {
+    "Name": "Himeus",
+    "About": "He hates fun and work with equal measure. You and Junior are both known for being kind to your slaves. Your mother has no idea why.",
+    "Family": "Slaves",
+    "Locations": "Apollonii Estate"
+  },
+  {
+    "Name": "Dromeus",
+    "About": "your father’s creature and he answers only to him. He does not take orders from you.",
+    "Family": "Employees",
+    "Locations": "Apollonii Estate"
+  },
+  {
+    "Name": "Zoli",
+    "About": "Zoli is a total bro, and is down for nearly anything. Himeus is the opposite.",
+    "Family": "Slaves",
+    "Locations": "Apollonii Estate"
+  },
+  {
+    "Name": "Clodia",
+    "About": "Garum merchant. \n--Find out who has been stealing the garum\n--Receive free garum\n--Meet at sundown",
+    "Family": "",
+    "Locations": ""
+  },
+  {
+    "Name": "Kenwyn",
+    "About": "",
+    "Family": "Slaves",
+    "Locations": ""
+  },
+  {
+    "Name": "Hami",
+    "About": "Language tutor",
+    "Family": "Employees",
+    "Locations": ""
+  },
+  {
+    "Name": "Erasmus",
+    "About": "",
+    "Family": "Employees",
+    "Locations": ""
+  },
+  {
+    "Name": "Ataulfus",
+    "About": "",
+    "Family": "Employees",
+    "Locations": ""
+  },
+  {
+    "Name": "Isbrand",
+    "About": "",
+    "Family": "Employees",
+    "Locations": ""
+  },
+  {
+    "Name": "Amadius Macro",
+    "About": "Owes father 200gp\nfound at the colloseum",
+    "Family": "",
+    "Locations": ""
+  },
+  {
+    "Name": "Publius Gracus",
+    "About": "Plebian politician",
+    "Family": "Plebs",
+    "Locations": "\"The Wild Apple\n\""
+  },
+  {
+    "Name": "Alpina",
+    "About": "Tavern slave maid\n\n-zoli has a crush on her",
+    "Family": "",
+    "Locations": "Tavern"
+  },
+  {
+    "Name": "Ignatius",
+    "About": "A fence found at the wild apple. \nable to procure many items and could sell illicit material to.",
+    "Family": "",
+    "Locations": "\"The Wild Apple\n\""
+  },
+  {
+    "Name": "Proculus Bubo",
+    "About": "Owner of the wild Apple\n--wants garum thieves caught \n--will let us use a private room to overlook the shipments",
+    "Family": "",
+    "Locations": ""
+  },
+  {
+    "Name": "Plitila prima",
+    "About": "Same age as Gaius",
+    "Family": "",
+    "Locations": ""
+  },
+  {
+    "Name": "Amelius Scipio",
+    "About": "",
+    "Family": "Scipii",
+    "Locations": ""
+  },
+  {
+    "Name": "Lucius Brutii",
+    "About": "",
+    "Family": "House Brutii",
+    "Locations": ""
+  },
+  {
+    "Name": "Prima Bruta",
+    "About": "",
+    "Family": "House Brutii",
+    "Locations": ""
+  },
+  {
+    "Name": "Octavia",
+    "About": "",
+    "Family": "House Brutii",
+    "Locations": ""
+  },
+  {
+    "Name": "Fulvia",
+    "About": "",
+    "Family": "Scipii",
+    "Locations": ""
+  },
+  {
+    "Name": "Prima Scipia",
+    "About": "",
+    "Family": "Scipii",
+    "Locations": ""
+  },
+  {
+    "Name": "Junius Prima",
+    "About": "",
+    "Family": "House Brutii",
+    "Locations": ""
+  },
+  {
+    "Name": "Prima Argentos",
+    "About": "",
+    "Family": "",
+    "Locations": ""
+  },
+  {
+    "Name": "Manius",
+    "About": "",
+    "Family": "",
+    "Locations": ""
+  },
+  {
+    "Name": "Spurius",
+    "About": "",
+    "Family": "Scipii",
+    "Locations": ""
+  },
+  {
+    "Name": "Hostis",
+    "About": "",
+    "Family": "House Brutii",
+    "Locations": ""
+  },
+  {
+    "Name": "Septimus",
+    "About": "",
+    "Family": "House Brutii",
+    "Locations": ""
+  },
+  {
+    "Name": "Quadra",
+    "About": "",
+    "Family": "House Luculli",
+    "Locations": "Tavern"
+  },
+  {
+    "Name": "Lemnus",
+    "About": "",
+    "Family": "",
+    "Locations": ""
+  },
+  {
+    "Name": "Getorix the Samnite",
+    "About": "",
+    "Family": "",
+    "Locations": ""
+  },
+  {
+    "Name": "Brixus the scutor",
+    "About": "",
+    "Family": "",
+    "Locations": ""
+  },
+  {
+    "Name": "Cincissa the Cat",
+    "About": "",
+    "Family": "",
+    "Locations": ""
+  },
+  {
+    "Name": "Manius Plotillus",
+    "About": "consul that Died. Funerary games are in his honor",
+    "Family": "Plotillus",
+    "Locations": "Unnamed record"
+  },
+  {
+    "Name": "Pompeius Musclosus",
+    "About": "hottest new Chariot racer",
+    "Family": "",
+    "Locations": ""
+  },
+  {
+    "Name": "Priscus",
+    "About": "",
+    "Family": "Employees",
+    "Locations": ""
+  }
+]
