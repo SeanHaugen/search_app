@@ -1,4 +1,4 @@
-import jsonData from '../../rome.json';
+import jsonData from '../../wizardData.json';
 import {React, useState} from 'react'
 import './searchTerm.css'
 
@@ -7,7 +7,7 @@ export const SearchTerm = () => {
 
     const [query, setQuery] = useState(localStorage.getItem('query') || '')
 
-    const onSearch = (e) => {
+    const handleSearch = (e) => {
         setQuery(e.target.value)
     }
 
@@ -20,7 +20,7 @@ export const SearchTerm = () => {
         <input 
             type='text'
             placeholder='search'
-            onChange={onSearch}
+            onChange={handleSearch}
             value={query}
         />
         </div>
@@ -34,7 +34,7 @@ export const SearchTerm = () => {
         }
       }).map((post,index) => (
             <div key={index} className="table">
-                <td className='item'>{post.Name}</td>
+                <p className='item'>{post.Name}</p>
                 <p className='item'>{post.Family}</p>        
                 <p className='item'>{post.About}</p>
             </div>

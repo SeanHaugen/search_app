@@ -16,6 +16,12 @@ h1 {
     flex-flow: row wrap;
     max-height: 30em;
     overflow: scroll;
+    margin-bottom: 20px;
+}
+
+
+.quest-list {
+    margin-top: 20px;
 }
 
 

@@ -1,0 +1,17 @@
+.card {
+    border: 1px solid black;
+    margin: 10px;
+    border-radius: 10px;
+    display: flex;
+    width: 20em;
+    
+}
+
+.card-name {
+    margin: 10px;
+
+}
+
+.card-about {
+    margin: 20px;
+}
