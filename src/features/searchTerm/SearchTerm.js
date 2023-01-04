@@ -35,7 +35,7 @@ export const SearchTerm = () => {
       }).map((post,index) => (
             <div key={index} className="table">
                 <p className='item'>{post.Name}</p>
-                <p className='item'>{post.Family}</p>        
+                <p className='item'>{post.Occupation}</p>        
                 <p className='item'>{post.About}</p>
             </div>
             ))
